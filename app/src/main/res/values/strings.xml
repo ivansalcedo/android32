@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Datos Personales</string>
+    <string name="desc">Descripcion</string>
+    <string name="tel">Telefono</string>
+    <string name="email">EMail</string>
+    <string name="fecha">Fecha Nacimiento</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="editar">Editar Datos</string>
+</resources>
